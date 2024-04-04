@@ -4,7 +4,7 @@
 
 ## 1. Clonando o projeto
 
-### 1.1. Criar o repositório,no nosso caso, GitHub
+### 1.1. Criar o repositório, no nosso caso, GitHub
 
 ### 1.2. Ir para a pasta na máquina e abrir o terminal e ecxecutar o comando abaixo.
 
@@ -16,7 +16,7 @@ acessar a pasta do projeto clonado
 
 ```shell cd [nome_repositorio]
 ```
-## 2. Subindo o códgio do projeto
+## 2. Subindo o código do projeto
 
 ### 2.1. Status
 
